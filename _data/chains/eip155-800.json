@@ -1,0 +1,20 @@
+{
+    "name": "Deakte Testnet",
+    "chain": "DeakteChainTest",
+    "network": "testnet",
+    "rpc": [
+        "https://tesnet.deakte.com"
+    ],
+    "faucets": [
+        "https://faucet.deakte.com"
+    ],
+    "nativeCurrency": {
+        "name": "Deakte",
+        "symbol": "DEA",
+        "decimals": 18
+    },
+    "infoURL": "https://scantest.deakte.com",
+    "shortName": "deakte-chain-testnet",
+    "chainId": 800,
+    "networkId": 800
+}
